@@ -1,5 +1,5 @@
 # Your Personal Diary
-## Video Demo:  <URL HERE>
+## Video Demo:  https://drive.google.com/file/d/1zT9oAnVhasCdjaky728vEBEzZo6rYVh0/view?usp=drive_link
 ## Description:
 
 Welcome to the application for your personal diary! You may easily record your ideas, memories, and everyday experiences using this Python application. Write, save, read, and edit journal entries with ease using an easy-to-use command-line interface. The application ensures a clutter-free experience by cleaning the screen after each activity, and each entry is immediately timestamped for convenient reference. This journal software is designed to assist you in recording your journey, whether you want to record a significant occasion or just think back on your day.
