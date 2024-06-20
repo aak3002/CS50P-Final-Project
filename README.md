@@ -18,7 +18,7 @@ Welcome to the application for your personal diary! You may easily record your i
 
 2)The test_project.py file contains manual tests to be run on some functions of project.py file.
 
-3)The README.md file which contains the description of the project ass well as all the details
+3)The README.md file which contains the description of the project as well as all the details
 
 ## About Me
 Name: Asad Ali Kazi
